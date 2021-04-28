@@ -1,0 +1,20 @@
+PODS:
+  - RandomColorSwift (2.0.0)
+  - SwipeCellKit (2.7.1)
+
+DEPENDENCIES:
+  - RandomColorSwift
+  - SwipeCellKit
+
+SPEC REPOS:
+  trunk:
+    - RandomColorSwift
+    - SwipeCellKit
+
+SPEC CHECKSUMS:
+  RandomColorSwift: d18b9b025403137b5543a002187489b06cc1782b
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+
+PODFILE CHECKSUM: d9e7d328e0e9d37dee0f4d8b676843eb17c7926f
+
+COCOAPODS: 1.10.1
